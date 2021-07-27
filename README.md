@@ -15,6 +15,12 @@ Feel free to open issues if you have any problems
 
 As well you can talk to me directly thru Guilded at https://guilded.gg/hch
 
+#### All Users
+
+Add the app folder in the resources folder inside Guilded
+
+See below for references per OS
+
 #### Windows Users
 Navigate to C:\\Users\<Username>\AppData\Local\Programs\Guilded\resources\app
 Put index.js and preload.js and package.json files into app folder
