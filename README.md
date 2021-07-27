@@ -20,8 +20,11 @@ Navigate to C:\\Users\<Username>\AppData\Local\Programs\Guilded\resources\app
 Put index.js and preload.js and package.json files into app folder
 
 File structure after install should be:
+
 `C:\\Users\<Username>\AppData\Local\Programs\Guilded\resources\app\package.json`
+
 `C:\\Users\<Username>\AppData\Local\Programs\Guilded\resources\app\index.js`
+
 `C:\\Users\<Username>\AppData\Local\Programs\Guilded\resources\app\preload.js`
 
 
@@ -29,10 +32,15 @@ File structure after install should be:
 Navigate to /opt/Guilded/resources/app
 Put `assets` folder `index.js` `package.json` and `preload.js` in the app folder.
 File structure after install should be:
+
 `/opt/Guilded/resources/app/assets`
+
 `/opt/Guilded/resources/app/index.js`
+
 `/opt/Guilded/resources/app/package.json`
+
 `/opt/Guilded/resources/app/preload.js`
+
 
 #### Mac Users - Coming Soon
 
